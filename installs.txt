@@ -1,6 +1,7 @@
 gcc compiler:
 - sudo apt install gcc
 
+
 openssl:
 - Debian/Ubuntu: sudo apt-get update; sudo apt-get install libssl-dev; (à voir si y'a besoin du ;")
 
